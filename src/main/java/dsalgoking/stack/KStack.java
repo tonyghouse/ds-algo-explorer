@@ -1,4 +1,4 @@
-package dsalgoexplorer.stack;
+package dsalgoking.stack;
 
 import java.util.Arrays;
 

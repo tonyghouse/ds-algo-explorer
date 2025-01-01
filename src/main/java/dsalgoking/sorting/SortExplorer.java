@@ -1,10 +1,9 @@
-package dsalgoexplorer.sorting;
+package dsalgoking.sorting;
 
 import java.util.Arrays;
 import java.util.Random;
 //just for testing acccuracy of algos
-import static dsalgoexplorer.sorting.SortTestUtil.testWithAscSort;
-import static dsalgoexplorer.sorting.SortTestUtil.testWithDescSort;
+import static dsalgoking.sorting.SortTestUtil.testWithDescSort;
 
 public class SortExplorer {
     public static void main(String[] args) {

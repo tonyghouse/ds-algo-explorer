@@ -1,4 +1,4 @@
-package dsalgoexplorer.slidingwindow;
+package dsalgoking.slidingwindow;
 
 
 /*

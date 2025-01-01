@@ -1,4 +1,4 @@
-package dsalgoexplorer.sorting;
+package dsalgoking.sorting;
 
 import java.util.Arrays;
 

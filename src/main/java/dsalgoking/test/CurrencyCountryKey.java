@@ -1,4 +1,4 @@
-package dsalgoexplorer.test;
+package dsalgoking.test;
 
 import java.util.Objects;
 import java.util.Comparator;

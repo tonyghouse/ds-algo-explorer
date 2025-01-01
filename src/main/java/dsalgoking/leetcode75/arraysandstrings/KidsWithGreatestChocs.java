@@ -1,4 +1,4 @@
-package dsalgoexplorer.leetcode75.arraysandstrings;
+package dsalgoking.leetcode75.arraysandstrings;
 
 import java.util.ArrayList;
 import java.util.List;

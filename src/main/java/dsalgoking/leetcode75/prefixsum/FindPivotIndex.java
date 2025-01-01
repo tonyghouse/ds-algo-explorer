@@ -1,4 +1,4 @@
-package dsalgoexplorer.leetcode75.prefixsum;
+package dsalgoking.leetcode75.prefixsum;
 
 public class FindPivotIndex {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dsalgoexplorer.linkedlist;
+package dsalgoking.linkedlist;
 
 class DeleteMiddleNode {
 

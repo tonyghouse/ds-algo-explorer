@@ -1,4 +1,4 @@
-package dsalgoexplorer.twopointers;
+package dsalgoking.twopointers;
 
 public class TwoPointersExplorer {
     public static void main(String[] args) {

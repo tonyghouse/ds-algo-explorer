@@ -1,6 +1,5 @@
-package dsalgoexplorer.leetcode75.hashmapandset;
+package dsalgoking.leetcode75.hashmapandset;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 

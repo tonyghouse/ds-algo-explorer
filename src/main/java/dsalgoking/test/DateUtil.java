@@ -1,4 +1,4 @@
-package dsalgoexplorer.test;
+package dsalgoking.test;
 
 import jakarta.annotation.Nonnull;
 

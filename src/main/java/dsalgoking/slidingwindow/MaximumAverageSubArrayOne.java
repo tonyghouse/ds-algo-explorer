@@ -1,7 +1,5 @@
-package dsalgoexplorer.slidingwindow;
+package dsalgoking.slidingwindow;
 
-
-import java.util.ArrayList;
 
 /*
    Leetcode 643. Maximum Average subarray I

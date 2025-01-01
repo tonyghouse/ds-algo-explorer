@@ -1,6 +1,6 @@
 package com.ghouse.dsalgoexplorer.test;
 
-import dsalgoexplorer.test.DateUtil;
+import dsalgoking.test.DateUtil;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;

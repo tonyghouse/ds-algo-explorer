@@ -1,4 +1,4 @@
-package dsalgoexplorer.leetcode75;
+package dsalgoking.leetcode75;
 
 public class GCDOfStrings {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dsalgoexplorer.linkedlist;
+package dsalgoking.linkedlist;
 
 public class MaximumTwinSum {
     public static void main(String[] args) {

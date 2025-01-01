@@ -1,4 +1,4 @@
-package dsalgoexplorer.linkedlist;
+package dsalgoking.linkedlist;
 
 public class ListNode {
     public Integer data;

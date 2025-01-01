@@ -1,4 +1,4 @@
-package dsalgoexplorer.map;
+package dsalgoking.map;
 
 
 import java.util.HashMap;

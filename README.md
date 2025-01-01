@@ -1,2 +1,2 @@
-# ds-algo-explorer
-To explore and understand data structures and algorithms
+# ds-algo-king
+To explore and master data structures and algorithms

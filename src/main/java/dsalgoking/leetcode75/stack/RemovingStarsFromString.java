@@ -1,4 +1,4 @@
-package dsalgoexplorer.leetcode75.stack;
+package dsalgoking.leetcode75.stack;
 
 import java.util.Stack;
 

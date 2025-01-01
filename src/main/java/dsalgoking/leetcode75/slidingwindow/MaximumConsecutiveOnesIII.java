@@ -1,4 +1,4 @@
-package dsalgoexplorer.leetcode75.slidingwindow;
+package dsalgoking.leetcode75.slidingwindow;
 
 public class MaximumConsecutiveOnesIII {
     public static void main(String[] args) {

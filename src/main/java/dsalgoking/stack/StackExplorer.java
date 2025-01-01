@@ -1,4 +1,4 @@
-package dsalgoexplorer.stack;
+package dsalgoking.stack;
 
 public class StackExplorer {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dsalgoexplorer.twopointers;
+package dsalgoking.twopointers;
 
 import java.util.Arrays;
 

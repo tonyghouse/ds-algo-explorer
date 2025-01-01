@@ -1,4 +1,4 @@
-package dsalgoexplorer.leetcode75.arraysandstrings;
+package dsalgoking.leetcode75.arraysandstrings;
 
 public class RevVowelsString {
     public static void main(String[] args) {

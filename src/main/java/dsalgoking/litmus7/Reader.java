@@ -1,4 +1,4 @@
-package dsalgoexplorer.litmus7;
+package dsalgoking.litmus7;
 
 public class Reader {
 

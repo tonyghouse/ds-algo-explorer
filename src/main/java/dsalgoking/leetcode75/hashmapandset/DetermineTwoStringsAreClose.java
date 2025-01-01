@@ -1,10 +1,7 @@
-package dsalgoexplorer.leetcode75.hashmapandset;
+package dsalgoking.leetcode75.hashmapandset;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Queue;
 
 public class DetermineTwoStringsAreClose {
     public static void main(String[] args) {
