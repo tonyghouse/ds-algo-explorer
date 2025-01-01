@@ -1,10 +1,10 @@
 package dsalgoexplorer.linkedlist;
 
-public class Node {
+public class ListNode {
     public Integer data;
-    public Node next;
+    public ListNode next;
 
-    public Node(Integer data, Node next) {
+    public ListNode(Integer data, ListNode next) {
         this.data = data;
         this.next = next;
     }

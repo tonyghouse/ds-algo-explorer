@@ -10,7 +10,7 @@ public class DsAlgoexplorerApplication {
 
 
 		SpringApplication.run(DsAlgoexplorerApplication.class, args);
-		System.out.println("running dsa explorer app by ghouse");
+		System.out.println("Running dsa explorer app by ghouse");
 	}
 
 }

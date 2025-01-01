@@ -9,7 +9,8 @@ import java.util.Map;
 /*
   Leetcode 438 Find all anagrams in the string
  */
-public class FindAllAnagrams {
+public class FindAllAnagramsOld {
+    //Old/Naive Approach
     public static void main(String[] args) {
         System.out.println("Finding all anagrams in the string");
 //        String s = "cbaebabacd";
