@@ -1,4 +1,4 @@
-package dsalgoking.daywise.january.jan1;
+package dsalgoking.daywise.january2025.jan1;
 
 public class MergeStringsAlternatively {
 

@@ -1,4 +1,4 @@
-package dsalgoking.daywise.january.jan1;
+package dsalgoking.daywise.january2025.jan1;
 
 import java.util.ArrayList;
 import java.util.List;
